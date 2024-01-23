@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-tuling-demo/consumer/consumer.iml" filepath="$PROJECT_DIR$/dubbo-tuling-demo/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-tuling-demo/dubbo-tuling-demo.iml" filepath="$PROJECT_DIR$/dubbo-tuling-demo/dubbo-tuling-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-tuling-demo/interface/interface.iml" filepath="$PROJECT_DIR$/dubbo-tuling-demo/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-tuling-demo/provider/provider.iml" filepath="$PROJECT_DIR$/dubbo-tuling-demo/provider/provider.iml" />
+    </modules>
+  </component>
+</project>
